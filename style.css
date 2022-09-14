@@ -397,9 +397,16 @@ section{
         font-size: 3rem;
     }
 
-    .teamSlider .sliders {
+    .teamSlider .slideContainer {
         flex-direction: column;
     
+    }
+
+    .contact .box-container {
+        flex-direction: column;
+    }
+    .contact-map {
+        width: 90%;
     }
 
 }
